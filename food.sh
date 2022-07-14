@@ -3,4 +3,5 @@ eru
 fish
 rice
 egusi
-
+plantains
+bekang
